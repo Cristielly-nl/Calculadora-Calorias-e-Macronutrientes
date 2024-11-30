@@ -9,5 +9,5 @@ Nível de atividade Física e o objetivo nutricional (manutenção de peso, ganh
 
 ● Calcula a Taxa Metabólica Basal e o Gasto Energético Total Diário;
 
-● Dividi essas calorias entre os macronutrientes (proteínas, carboidratos e gordura.
+● Dividi essas calorias entre os macronutrientes (proteínas, carboidratos e gordura).
 
